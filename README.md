@@ -25,3 +25,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
 </p>
   
+### 📌 stuff i'm working on
+ 
+| project | what it does | status |
+|---|---|---|
+| [**beacon-bot**](https://github.com/KhatooXD/beacon-bot) | Discord bot with tickets and community tools | 🟢 alive |
