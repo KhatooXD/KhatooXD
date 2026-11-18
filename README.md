@@ -33,7 +33,4 @@
 
 ### 📊 stats
  
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KhatooXD&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhatooXD&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
-</p>
+<p> <img src="https://streak-stats.demolab.com?user=KhatooXD&hide_border=true&theme=transparent" alt="GitHub streak"> </p>
