@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">hey, i'm Khatoo 👋</h1>
+<p align="center"><i>I write C# and Discord bots that mostly work.</i></p>
 
-<!--
-**KhatooXD/KhatooXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://discord.gg/s2etxeDMWs"><img src="https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
+  <img src="https://img.shields.io/badge/based%20in-Italy-009246?style=flat" alt="Italy">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 about me
+
+- Building stuff at **Astro development**
+- Studying **Industrial AI** at **Fabriano Academy**
+- Making Discord bots nobody asked for
+- Writing C# apps thats work prefectly on my computer
+
+
+### 🧰 stack
+ 
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/discord.py-5865F2?style=flat&logo=discord&logoColor=white" alt="discord.py">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+</p>
+  
