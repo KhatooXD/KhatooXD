@@ -34,3 +34,5 @@
 ### 📊 stats
  
 <p> <img src="https://streak-stats.demolab.com?user=KhatooXD&hide_border=true&theme=transparent" alt="GitHub streak"> </p>
+
+<p align="center"><sub>if it compiles, ship it.</sub></p>
