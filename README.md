@@ -10,7 +10,7 @@
 
 ### 🧠 about me
 
-- Building stuff at **Astro development**
+- Building stuff at **Astro**
 - Studying **Industrial AI** at **Fabriano Academy**
 - Making Discord bots nobody asked for
 - Writing C# apps thats work prefectly on my computer
